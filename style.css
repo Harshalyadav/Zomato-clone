@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "merriweather" ,serif;
+    background-color:#ebf2ff;
+}
+
+.nav_bar{
+    width: 100px;
+    justify-content: space-between;
+}
+.nav_bar_logo{
+    width: 100%;
+}
+.nav_bar_nav_item{
+    background-color: linear grident(
+        to right,
+        #ff512f 0%,
+        #dd2476 51%,
+        #ff512f 100%
+    );
+    color: #fff;
+}
