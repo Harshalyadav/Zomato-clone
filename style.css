@@ -11,7 +11,8 @@ body{
 
 .nav_bar{
     width: 100px;
-    justify-content: space-between;
+    justify-content: space-between
+    ;
 }
 .nav_bar_logo{
     width: 100%;
